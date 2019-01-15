@@ -1,7 +1,9 @@
-.column {
+.column1 {
   width: 300px;
   float: left;
-  padding
+  background-color: orange;
+  margin: 30px;
+  text-align: center;
 }
 
 img {
@@ -13,4 +15,21 @@ img {
   margin: 12px;
   border: 5px solid pink;
   padding: 4px;
+  background-color: wheat;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: blue;
+  margin: 30px;
+  text-align: center;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: yellow;
+  margin: 30px;
+  text-align: center;
 }

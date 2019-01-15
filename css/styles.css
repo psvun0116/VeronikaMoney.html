@@ -1,0 +1,16 @@
+.column {
+  width: 300px;
+  float: left;
+  padding
+}
+
+img {
+  width: 80%;
+}
+
+.contact {
+  text-align: center;
+  margin: 12px;
+  border: 5px solid pink;
+  padding: 4px;
+}
